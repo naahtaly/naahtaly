@@ -1,8 +1,6 @@
-## Oie, eu sou a Nahtaly! ♡
+## Oie, eu sou a Nahtaly! ୨ৎ
 
-- ୨ৎ Atualmente estudo Ciência da Computação
-- ୨ৎ Contate-me no email: nahtalyferreira@gmail.com
-- ୨ৎ Pronouns: she/her
+Meu nome é Nahtaly Nunes, tenho 21 anos e moro na Zona Leste de São Paulo. Atualmente, estudo Ciência da Computação na Faculdade Impacta. Sou apaixonada por tecnologia e estou sempre em busca de aprender mais sobre o mundo da programação e inovação.
 
   <div>
     <a href="https://github.com/naahtaly"> 
