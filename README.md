@@ -1,45 +1,41 @@
-## Oie, eu sou a Nahtaly! ୨ৎ
+Oie, eu sou a Nahtaly! ୨ৎ
+<h1 align="center">Oie, eu sou a Nahtaly! ୨ৎ</h1>
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1410243455073910835/1490209378018656377/Purple_and_Pink_Gradient_Modern_Programmer_Presentation_1.gif?ex=69d33922&is=69d1e7a2&hm=309178f94009ba7cca32b940ea7693f2a72366e24b9d6c16851b2c990a0ad5f5&animated=true" width="100%" />
+</p>
 
+---
 
+## 
+💻 Marketing + Tech  
+🎮 Comunidade & Eventos  
+🚀 Evolução constante  
 
+---
 
-  <div>
-    <a href="https://github.com/naahtaly"> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naahtaly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naahtaly&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://www.instagram.com/nahxsnnr/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+---
 
-_____
+## ⚙️ Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,react,nodejs,git,github" />
+</p>
 
+---
 
-<img align="right" alt="naahtaly" height="140em" src="https://media.discordapp.net/attachments/1331098157840334901/1345182969169575986/download20250205205045_online-video-cutter.com.gif?ex=67c39ec4&is=67c24d44&hm=c6717475be9a7c5bed075aebe63860f1eaedce4b4a1fd4e9fb6b94e61b731a7e&=">
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=SEUUSER&theme=radical"/>
+</p>
 
+---
 
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-
-____
-
-
-
-<div>
-  <a href="https://instagram.com/naahtaly" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nahtalyferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nahtaly-nunes-41563b207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naahtaly/naahtaly/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naahtaly/naahtaly/output/github-contribution-grid-snake.svg">
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/naahtaly/naahtaly/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center">
+  🖤 Seja bem vindo
+</p>
