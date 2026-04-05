@@ -1,6 +1,5 @@
 ## Oie, eu sou a Nahtaly! ୨ৎ
 
-Meu nome é Nahtaly Nunes, tenho 21 anos e moro na Zona Leste de São Paulo. Atualmente, estudo Ciência da Computação na Faculdade Impacta. Sou apaixonada por tecnologia e estou sempre em busca de aprender mais sobre o mundo da programação e inovação.
 
 
 
