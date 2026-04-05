@@ -1,4 +1,3 @@
-Oie, eu sou a Nahtaly! ୨ৎ
 <h1 align="center">Oie, eu sou a Nahtaly! ୨ৎ</h1>
 
 <p align="center">
@@ -28,14 +27,28 @@ Oie, eu sou a Nahtaly! ୨ৎ
 
 ---
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=SEUUSER&theme=radical"/>
-</p>
+name: Generate Snake
 
----
+on:
+  schedule:
+    - cron: "0 0 * * *" # atualiza todo dia
+  workflow_dispatch:
 
-<p align="center">
-  🖤 Seja bem vindo
-</p>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: naahtaly
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
