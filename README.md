@@ -16,7 +16,7 @@
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://www.instagram.com/nahxsnnr/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/nahtalyt"><img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
